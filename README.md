@@ -1,15 +1,4 @@
-<img width="1290" alt="Screen Shot 2023-07-24 at 10 15 58 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/18e7606d-5d47-4cb1-94e1-b5f8ff7f61b1">
-<img width="1289" alt="Screen Shot 2023-07-24 at 10 15 50 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/5042f7d1-0ca3-4d84-97c4-f9cbd846ab26">
-<img width="1298" alt="Screen Shot 2023-07-24 at 10 14 43 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/423dead5-19ef-4525-9dd5-03774d8f82cf">
-<img width="1288" alt="Screen Shot 2023-07-24 at 10 14 29 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/a54e0b8d-0271-4000-9b1a-69fedc623be6">
-<img width="1287" alt="Screen Shot 2023-07-24 at 10 13 51 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/e3ab160b-dbbe-407d-82dc-573bbea7a49f">
-<img width="1639" alt="Screen Shot 2023-07-24 at 10 13 35 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/3973a338-ec63-4ef0-8856-227d99e3334c">
-<img width="1290" alt="Screen Shot 2023-07-24 at 10 15 58 PM" src="https://github.com/annemarywynter1986/E-commerce-Back-End/assets/130412307/f1679948-215c-4ea3-b7ff-1576fe0272c3">
-![Uploading Screen Shot 2023-07-24 at 10.15.50 PM.png…]()
-![Uploading Screen Shot 2023-07-24 at 10.14.43 PM.png…]()
-![Uploading Screen Shot 2023-07-24 at 10.14.29 PM.png…]()
-![Uploading Screen Shot 2023-07-24 at 10.13.51 PM.png…]()
-![Uploading Screen Shot 2023-07-24 at 10.13.35 PM.png…]()
+
 # E-commerce-Back-End by Anne Mary Wynter
 
 ## Description
