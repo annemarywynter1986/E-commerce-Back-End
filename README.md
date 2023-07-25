@@ -12,9 +12,7 @@ The back-end database has been purposed towards e-commerce websites using Expres
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
 - [Continued Development](#Continued-Development)
-- [License](#License)
 - [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
 
 # Overview
 
