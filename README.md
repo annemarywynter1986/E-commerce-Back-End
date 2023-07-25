@@ -63,11 +63,11 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## GitHub Repository:
-
+https://github.com/annemarywynter1986/E-commerce-Back-End.git
 
 ## Walkthrough Video: 
 
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1fJb4B57smCJNsNhgf_BCJzayTtPFPpcz/view?usp=sharing)
 
 
 ## Installation Process
